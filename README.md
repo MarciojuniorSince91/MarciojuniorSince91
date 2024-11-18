@@ -1,5 +1,5 @@
 # 👋 olá! bem vindo ao meu Github profile.
-## me chamo Márcio e tambem me chamam de "Junior"!
+## me chamo Márcio ou tambem de "Junior"!
 
 - 🔭 Atualmente estou em transição de carreira para programação, e trabalhei no Banco Santander durante 6 anos na areá comercial.
 - 👯 Estou procurando colaborar e ganhar novos conhecimentos nesse ambiente.
